@@ -13,7 +13,8 @@ Each client takes the media acquired from the media stream API and plugs it into
 This Project is based on the WebRTC framework works by setting the peer connections between the users.
 Each client(peer) acts as a server and client, so it becomes challenging for the client's browser to handle the peer connections as the number of clients increase.
 Therefore the max limit of client connections should be up to 4 for getting a fair connection.
-
+<br/>
+Project hosted on [https://web-video-chat-app.herokuapp.com/](https://web-video-chat-app.herokuapp.com/)
 
   Reference :
 * [MDN WebRTC API](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
