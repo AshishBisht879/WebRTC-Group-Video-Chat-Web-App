@@ -29,9 +29,9 @@ Project hosted on [https://web-video-chat-app.herokuapp.com/](https://web-video-
 ## Project Tech
 * WebRTC
 * ReactJS
-* node.js
-* socket. io
-* npm
+* Node.js
+* Socket. io
+* Npm
  <br/>
  <br/>
 
