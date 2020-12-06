@@ -3,7 +3,7 @@
 <br/>
 
 ## WebRTC
-[Web Real-Time Communication(WebRTC)](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) is a technology that enables real time media communications like voice, video and data transfer natively between without any third party software.
+[Web Real-Time Communication(WebRTC)](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API) is a technology that enables real time media communications like voice, video and data transfer natively between clients without any third party software.
 
 
 Peer connection is the core of the WebRTC. It provides a way for clients to create direct connections with their peers without the need for an intermediary server.
